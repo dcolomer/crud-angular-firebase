@@ -52,4 +52,4 @@ Características de Angular aplicadas a este programa:
 ## Instalación
 Ejecutar `mpm install` para descargar las librerías de node.
 
-**Importante: Para probar la aplicación debes crearte tu propia BD (aplicación)  en Firebase, copiar los datos de configuración que te proporcionen (apiKey, Domain, etc) y reemplazarlos por lo datos `fake' del fichero `app.module.ts`**
+**Importante: Para probar la aplicación debes crearte tu propia BD (aplicación)  en Firebase, copiar los datos de configuración que te proporcionen (apiKey, Domain, etc) y reemplazarlos por lo datos `fake` del fichero `app.module.ts`**
