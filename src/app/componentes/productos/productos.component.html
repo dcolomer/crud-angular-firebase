@@ -1,0 +1,10 @@
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md">
+            <app-producto (messageEvent)="receiveMessage($event)"></app-producto>
+        </div>
+        <div class="col-md lista-prod">
+            <app-lista-productos [mostrarLista]="mostrarLista" ></app-lista-productos>
+        </div>
+    </div>
+</div>
