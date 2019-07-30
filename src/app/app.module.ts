@@ -30,12 +30,12 @@ import {LoadingComponent} from './componentes/loading/loading.component';
     BrowserModule,
     BrowserAnimationsModule,
     AngularFireModule.initializeApp({
-      apiKey: 'AIzaSyDxF2ddLeViR9NJk6J3L2EKstjKbwFuOfA',
-      authDomain: 'crud-firebase-1534d.firebaseapp.com',
-      databaseURL: 'https://crud-firebase-1534d.firebaseio.com',
-      projectId: 'crud-firebase-1534d',
-      storageBucket: 'crud-firebase-1534d.appspot.com',
-      messagingSenderId: '387377244618'
+      apiKey: '******',
+      authDomain: '******',
+      databaseURL: '******',
+      projectId: '******',
+      storageBucket: '******',
+      messagingSenderId: '******'
     }),
     AngularFireDatabaseModule,
     FormsModule,
