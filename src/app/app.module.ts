@@ -35,7 +35,8 @@ import {LoadingComponent} from './componentes/loading/loading.component';
       databaseURL: '******',
       projectId: '******',
       storageBucket: '******',
-      messagingSenderId: '******'
+      messagingSenderId: '******',
+      appId: '******'
     }),
     AngularFireDatabaseModule,
     FormsModule,
